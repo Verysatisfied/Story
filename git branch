@@ -1,0 +1,42 @@
+[33mcommit 0143a2110bb4a768e9fb0ff70e76abc9b2c42aab[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Verysatisfied <lmuiiu@foxmail.com>
+Date:   Sun Jan 15 19:41:20 2023 +0800
+
+    try gitignore function
+
+[33mcommit af0cf48715bf6252bb3a957118b8d929a2f815f4[m
+Author: Verysatisfied <lmuiiu@foxmail.com>
+Date:   Sat Jan 14 17:19:13 2023 +0800
+
+    complete chapter5
+
+[33mcommit 2eb67445feecc7bcd01805b00d88f94149dde561[m
+Merge: 7d20e8d 7db8c2c
+Author: Verysatisfied <lmuiiu@foxmail.com>
+Date:   Wed Jan 11 23:18:16 2023 +0800
+
+    Merge branch 'alien-plot'
+
+[33mcommit 7d20e8daa4708434dff0aa5bcf228e5861bbee70[m
+Author: Verysatisfied <lmuiiu@foxmail.com>
+Date:   Wed Jan 11 23:10:00 2023 +0800
+
+    add chapter4
+
+[33mcommit 7db8c2c7f59470859aa45bd8bbc036b522574326[m[33m ([m[1;32malien-plot[m[33m)[m
+Author: Verysatisfied <lmuiiu@foxmail.com>
+Date:   Wed Jan 11 23:01:46 2023 +0800
+
+    modify chapter1 and2 to have alien theme
+
+[33mcommit 8c4554b63e218e2ae50fa583d4cd3d5310aa77fb[m
+Author: rose <lmuiiu@foxmail.com>
+Date:   Sat Jan 7 00:05:50 2023 +0800
+
+     complete chapter 2 and3
+
+[33mcommit 4a629bbc199bca7e48d74e00b7ce43f2475aad53[m
+Author: rose <lmuiiu@foxmail.com>
+Date:   Fri Jan 6 23:56:36 2023 +0800
+
+    complete chapter1
